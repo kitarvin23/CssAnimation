@@ -16,7 +16,7 @@
 
 <div id="content2"></div>
 
-<img id="img1-home" src="home.png" alt="LE VAPE CAFE , ENTRANCE" width="420">
+<img id="img1-home" src="images/home.png" alt="LE VAPE CAFE , ENTRANCE" width="420">
 
 <!-- Modal -->
 <div id="homeModal1" class="home-modal-1">
