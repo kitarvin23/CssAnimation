@@ -30,7 +30,7 @@ $prod = (isset($_GET['id']) && $_GET['id'] != '') ? $_GET['id'] : '';
 <div class="Daily-events-box"></div>
 <div class="Daily-events"><h4><i>Daily Events</h4></div>
 
-<img id="img1-footer" src="images/daily1.jpg" alt="1st Anniversary of Le Vape Cafe" width="150" height="150">
+<img id="img1-footer" src="images/daily1.JPG" alt="1st Anniversary of Le Vape Cafe" width="150" height="150">
 
 <!-- Modal -->
 <div id="footerModal" class="modal">
@@ -43,7 +43,7 @@ $prod = (isset($_GET['id']) && $_GET['id'] != '') ? $_GET['id'] : '';
 </div>
 
 
-<img id="img2-footer" src="images/daily2.jpg" alt="LE VAPE CAFE T-SHIRT" width="150" height="150">
+<img id="img2-footer" src="images/daily2.JPG" alt="LE VAPE CAFE T-SHIRT" width="150" height="150">
 
 <!-- Modal -->
 <div id="footerModal" class="modal">
@@ -55,7 +55,7 @@ $prod = (isset($_GET['id']) && $_GET['id'] != '') ? $_GET['id'] : '';
 <p> Le Vape Cafe for only 200 Php</p></div>
 
 
-<img id="img3-footer" src="images/123.jpg" alt="FREEBIES" width="150" height="150">
+<img id="img3-footer" src="images/123.JPG" alt="FREEBIES" width="150" height="150">
 
 <!-- Modal -->
 <div id="footerModal" class="modal">
